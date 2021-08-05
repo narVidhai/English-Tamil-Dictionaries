@@ -1,0 +1,9 @@
+[submodule "raw/eng2tamildictionary"]
+	path = raw/eng2tamildictionary
+	url = https://github.com/linuxkathirvel/eng2tamildictionary
+[submodule "raw/english-tamil-dictionary-api"]
+	path = raw/english-tamil-dictionary-api
+	url = https://github.com/abuvanth/english-tamil-dictionary-api
+[submodule "raw/dictionary"]
+	path = raw/dictionary
+	url = https://github.com/sathia27/dictionary
